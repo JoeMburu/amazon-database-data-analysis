@@ -2,5 +2,5 @@
 
 ## My Report
 
-[📄 Download Word Report](https://github.com/YourUsername/YourRepo/blob/main/docs/my_report.docx)
+[📄 Download Word Report](https://github.com/JoeMburu/amazon-database-data-analysis/blob/main/Amazon%20Database.docx)
 
